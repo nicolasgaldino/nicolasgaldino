@@ -1,5 +1,5 @@
-Olá me chamo Nícolas Galdino, tenho 23 anos e sou estudante de análise e desenvolvimento de sistemas.<br>
-Atualmente estou cursando o segundo semestre.<br>
+Hi, my name is Nícolas Galdino, I'm 23 years old and I'm a systems analysis and development student.<br>
+I'm currently in my second semester.<br>
   
   ##
  
@@ -17,10 +17,16 @@ Atualmente estou cursando o segundo semestre.<br>
 </div>
   
   ##
- 
+  
+  ### 📈 GitHub Activity Graph:
+![Nícolas's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&hide_border=true&theme=redical)
+  
+  ##
+ 📫 How to Reach me:
 <div>
   <a href="https://www.linkedin.com/in/nícolas-galdino-esmael-8370ab199" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/galdino_esmael"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicolasesmael1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=+5521974903005" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
  
 </div>

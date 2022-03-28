@@ -1,8 +1,8 @@
 Olá me chamo Nícolas Galdino, tenho 23 anos e sou estudante de análise e desenvolvimento de sistemas.<br>
 Atualmente estou cursando o segundo semestre.
-<div display="felx" align="center">
+<div align="center">
   <a href="https://github.com/nicolasgaldino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasgaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasgaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgaldino&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>

@@ -1,6 +1,5 @@
 Olá meu nome é Nícolas Galdino, tenho 23 anos;<br>
 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 2° semestre;<br>
-Estou no foco de manter pelo menos uma atividade diária no Github, seja fazendo atualizações em repositórios de treino com Python, ou mini projetos treinando as CSS;<br>
 
   ##
  

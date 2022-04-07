@@ -1,5 +1,6 @@
 Olá meu nome é Nícolas Galdino, tenho 23 anos;<br>
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 2° semestre;<br>
+Estagiário na GADG / MPRJ;<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente curso o 2° semestre;<br>
 
   ##
  

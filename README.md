@@ -2,20 +2,20 @@ Olá meu nome é Nícolas Galdino, tenho 23 anos;<br>
 Estagiário de desenvolvimento front-end - MPRJ;<br>
 Cursando o segundo semestre de Análise e Desenvolvimento de Sistemas;<br>
 
-  ##
+##
+
+Disclaimer:<br>
+Esse gráfico de porgentagem não serve para quantificar meus conhecimentos em determinada linguagem, framework ou tecnologia.<br>
+O motivo de deixá-lo visível é mostrar apenas com quais linguagem, frameworks ou tecnologias estou trabalhando e/ou com mais frequência.<br>
+
+##
  
   <a href="https://github.com/nicolasgaldino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasgaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgaldino&layout=compact&langs_count=7&theme=dark"/>
   
 ##
-  
-Disclaimer:<br>
-Esse gráfico de porgentagem não serve para quantificar meus conhecimentos em determinada linguagem, framework ou tecnologia.<br>
-O motivo de deixá-lo visível é mostrar apenas com quais linguagem, frameworks ou tecnologias estou lidando com mais frequência.<br>
-    
- ##
- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,12 +23,12 @@ O motivo de deixá-lo visível é mostrar apenas com quais linguagem, frameworks
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-  ##
+##
   
   ### 📈 GitHub Activity Graph:
 ![Nícolas's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&hide_border=true&theme=redical)
   
-  ##
+##
  📫 How to Reach me:
 <div>
   <a href="https://www.linkedin.com/in/nícolas-galdino-esmael-8370ab199" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

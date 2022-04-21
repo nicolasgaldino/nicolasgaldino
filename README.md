@@ -6,7 +6,7 @@ Cursando o segundo semestre de Análise e Desenvolvimento de Sistemas;<br>
 
 Disclaimer:<br>
 Esse gráfico de porgentagem não serve para quantificar meus conhecimentos em determinada linguagem, framework ou tecnologia.<br>
-O motivo de deixá-lo visível é para mostrar com quais linguagens, frameworks ou tecnologias estou trabalhando e/ou com mais frequência.<br>
+O motivo de deixá-lo visível é para mostrar com quais linguagens, frameworks ou tecnologias estou trabalhando e/ou estudando com mais frequência.<br>
 
 ##
  

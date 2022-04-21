@@ -1,6 +1,6 @@
 Olá meu nome é Nícolas Galdino, tenho 23 anos;<br>
 Estagiário de desenvolvimento front-end - MPRJ;<br>
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente curso o 2° semestre;<br>
+Cursando o segundo semestre de Análise e Desenvolvimento de Sistemas;<br>
 
   ##
  

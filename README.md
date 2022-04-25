@@ -1,3 +1,8 @@
+Olá! Bem vindo(a) ao meu repositório.<br>
+Tenho 23 anos e atualmente estou cursando o segundo semestre de análise e desenvolvimento de sistemas.<br>
+
+##
+
 Disclaimer:<br>
 Esse gráfico de porcentagem não serve necessariamente para quantificar meus conhecimentos.<br>
 O motivo de deixá-lo visível é para mostrar quais linguagens, frameworks ou tecnologias estou trabalhando e/ou estudando com mais frequência.<br>

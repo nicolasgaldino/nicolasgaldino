@@ -12,7 +12,7 @@ Me chamo Nícolas e tenho 23 anos.
 ##
  
 <a href="https://github.com/nicolasgaldino">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgaldino&layout=compact&langs_count=7&theme=dark"/><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgaldino&layout=compact&langs_count=7&theme=dark" align="center"/><br>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

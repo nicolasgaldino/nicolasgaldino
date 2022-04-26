@@ -33,7 +33,7 @@ O motivo de deixá-lo visível é para mostrar quais linguagens, frameworks ou t
 ##
   
   ### 📈 GitHub Activity Graph:
-![Nícolas's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&hide_border=true&theme=redical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&theme=redical&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
   
 ##
  📫 How to Reach me:

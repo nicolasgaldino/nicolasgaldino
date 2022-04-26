@@ -12,15 +12,9 @@ Atualmente estou cursando o segundo semestre de análise e desenvolvimento de si
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-  
-##
-
-Disclaimer:<br>
-Esse gráfico de porcentagem não serve necessariamente para quantificar meus conhecimentos.<br>
-O motivo de deixá-lo visível é para mostrar quais linguagens, frameworks ou tecnologias estou trabalhando e/ou estudando com mais frequência.<br>
 
 ##
-  
+
   ### 📈 GitHub Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&theme=redical&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
   

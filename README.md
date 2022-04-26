@@ -1,5 +1,6 @@
 Olá! Bem vindo(a) ao meu repositório.<br>
-Atualmente estou cursando o segundo semestre de análise e desenvolvimento de sistemas.<br>
+Tenho 23 anos.<br>
+Iniciei minha jornada no mundo da programação em Agosto de 2021 e meu estágio em Abril de 2022.
 
 ##
  

@@ -2,12 +2,6 @@ Olá! Bem vindo(a) ao meu repositório.<br>
 Atualmente estou cursando o segundo semestre de análise e desenvolvimento de sistemas.<br>
 
 ##
-
-Disclaimer:<br>
-Esse gráfico de porcentagem não serve necessariamente para quantificar meus conhecimentos.<br>
-O motivo de deixá-lo visível é para mostrar quais linguagens, frameworks ou tecnologias estou trabalhando e/ou estudando com mais frequência.<br>
-
-##
  
 <a href="https://github.com/nicolasgaldino">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgaldino&layout=compact&langs_count=7&theme=dark"/><br>
@@ -19,6 +13,12 @@ O motivo de deixá-lo visível é para mostrar quais linguagens, frameworks ou t
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
+##
+
+Disclaimer:
+Esse gráfico de porcentagem não serve necessariamente para quantificar meus conhecimentos.
+O motivo de deixá-lo visível é para mostrar quais linguagens, frameworks ou tecnologias estou trabalhando e/ou estudando com mais frequência.
+
 ##
   
   ### 📈 GitHub Activity Graph:

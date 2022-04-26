@@ -1,5 +1,5 @@
 Olá! Bem vindo(a) ao meu repositório.<br>
-Tenho 23 anos e atualmente estou cursando o segundo semestre de análise e desenvolvimento de sistemas.<br>
+Atualmente estou cursando o segundo semestre de análise e desenvolvimento de sistemas.<br>
 
 ##
 

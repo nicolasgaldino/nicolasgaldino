@@ -1,14 +1,13 @@
 <div align="center">
 
-### Olá, bem vindo(a) ao meu mundo! 👋
+## Olá, bem vindo(a) ao meu mundo! 👋
+
+</div>
 
 ### Sou estudante de Análise e Desenvolvimento de Sistemas - Unigranrio;
 
 - 👨‍💻 &nbsp; Atualmente sou estagiário de desenvolvimento front-end no MPRJ;
-
 - 📖 &nbsp; Estudando e praticando JavaScript e Python;
-
-</div>
 
 ##
 
@@ -24,9 +23,12 @@
 </div>
 
 ##
+<div align="center">
 
   ### 📈 GitHub Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&theme=redical&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+
+</div>
   
 ##
 

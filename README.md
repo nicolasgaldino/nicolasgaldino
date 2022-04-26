@@ -15,9 +15,9 @@ Atualmente estou cursando o segundo semestre de análise e desenvolvimento de si
   
 ##
 
-Disclaimer:
-Esse gráfico de porcentagem não serve necessariamente para quantificar meus conhecimentos.
-O motivo de deixá-lo visível é para mostrar quais linguagens, frameworks ou tecnologias estou trabalhando e/ou estudando com mais frequência.
+Disclaimer:<br>
+Esse gráfico de porcentagem não serve necessariamente para quantificar meus conhecimentos.<br>
+O motivo de deixá-lo visível é para mostrar quais linguagens, frameworks ou tecnologias estou trabalhando e/ou estudando com mais frequência.<br>
 
 ##
   

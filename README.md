@@ -4,9 +4,8 @@ Me chamo Nícolas e tenho 23 anos.
 ##
 
 <div id="header" align="center">
-    <a href="yhttps://github.com/nicolasgaldino/">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
-       </a>
+  <a href="yhttps://github.com/nicolasgaldino/">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/></a>
 </div>
 
 ##
@@ -31,7 +30,7 @@ Me chamo Nícolas e tenho 23 anos.
 
 <div align="center">
  📫 How to Reach me:
-<div >
+<div>
   <a href="https://www.linkedin.com/in/nícolas-galdino-esmael-8370ab199" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/galdino_esmael"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicolasesmael1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

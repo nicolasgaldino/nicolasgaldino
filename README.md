@@ -1,11 +1,13 @@
-Olá! Bem vindo(a) ao meu repositório.<br>
-Me chamo Nícolas e tenho 23 anos.
+<div align="center">
 
-##
+### Olá, bem vindo(a) ao meu mundo! 👋
 
-<div id="header" align="center">
-  <a href="yhttps://github.com/nicolasgaldino/">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/></a>
+### Sou estudante de Análise e Desenvolvimento de Sistemas - Unigranrio;
+
+- 👨‍💻 &nbsp; Atualmente sou estagiário de desenvolvimento front-end no MPRJ;
+
+- 📖 &nbsp; Estudando e praticando JavaScript e Python;
+
 </div>
 
 ##

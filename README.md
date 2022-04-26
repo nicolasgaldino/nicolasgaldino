@@ -3,14 +3,6 @@ Atualmente estou cursando o segundo semestre de análise e desenvolvimento de si
 
 ##
 
-<div id="header" align="center">
-    <a href="yhttps://github.com/nicolasgaldino/">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
-       </a>
-</div>
-
-##
-
 Disclaimer:<br>
 Esse gráfico de porcentagem não serve necessariamente para quantificar meus conhecimentos.<br>
 O motivo de deixá-lo visível é para mostrar quais linguagens, frameworks ou tecnologias estou trabalhando e/ou estudando com mais frequência.<br>

@@ -1,6 +1,13 @@
 Olá! Bem vindo(a) ao meu repositório.<br>
-Tenho 23 anos.<br>
-Iniciei minha jornada no mundo da programação em Agosto de 2021 e meu estágio em Abril de 2022.
+Me chamo Nícolas e tenho 23 anos.
+
+##
+
+<div id="header" align="center">
+    <a href="yhttps://github.com/nicolasgaldino/">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
+       </a>
+</div>
 
 ##
  

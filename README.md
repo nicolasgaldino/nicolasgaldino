@@ -4,10 +4,17 @@
 
 </div>
 
-### Sou estudante de Análise e Desenvolvimento de Sistemas - Unigranrio;
+### Estudante de Análise e Desenvolvimento de Sistemas - Unigranrio;
 
-- 👨‍💻 &nbsp; Atualmente sou estagiário de desenvolvimento front-end no MPRJ;
-- 📖 &nbsp; Estudando e praticando JavaScript e Python;
+
+```diff
+Me chamo Nícolas!
+Estagiário de desenvolvimento front-ed no MPRJ
++ Nascido e criado no Rj, sou um Flamenguista nada saudável.
+- Levev up 23... Almost reaching 24.
+! I lose a friendship, but never the joke.
+# 📖 Currently focused on studying JavaScript and Python.
+```
 
 ##
 

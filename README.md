@@ -13,7 +13,7 @@ Estagiário de desenvolvimento front-end no MPRJ
 + Nascido e criado no Rj, sou um Flamenguista nada saudável.
 - Levev up 23... Almost reaching 24.
 ! I lose a friendship, but never the joke.
-# 📖 Currently focused on studying JavaScript and Python.
+# 📖 Currently studying JavaScript and Python.
 ```
 
 ##

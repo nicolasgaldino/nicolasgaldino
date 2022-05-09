@@ -9,10 +9,10 @@
 
 ```diff
 Me chamo Nícolas!
++ Como posso te ajudar hoje?
 Estagiário de desenvolvimento front-end no MPRJ
-+ Nascido e criado no Rj, sou um Flamenguista nada saudável.
+Magé - Rio dd Janeiro, sou um Flamenguista nada saudável.
 - Levev up 23... Almost reaching 24.
-! I lose a friendship, but never the joke.
 # 📖 Currently studying JavaScript and Python.
 ```
 

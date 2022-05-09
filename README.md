@@ -11,7 +11,6 @@
 Me chamo Nícolas!
 + Como posso te ajudar hoje?
 Estagiário de desenvolvimento front-end no MPRJ
-Magé - Rio dd Janeiro, sou um Flamenguista nada saudável.
 - Levev up 23... Almost reaching 24.
 # 📖 Currently studying JavaScript and Python.
 ```

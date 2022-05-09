@@ -8,7 +8,6 @@
 
 
 ```diff
-Me chamo Nícolas!
 + Como posso te ajudar hoje?
 Estagiário de desenvolvimento front-end no MPRJ
 - Levev up 23... Almost reaching 24.

@@ -16,6 +16,10 @@ Estagiário de desenvolvimento front-end no MPRJ
 
 ##
 
+Quer saber mais sobre mim? <a href="https://nicolasgaldino.github.io/Code-Page/html/sobre.html" target="_blank">Clique aqui</a>!
+
+##
+
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgaldino&layout=compact&langs_count=7&theme=dark"/><br>
 

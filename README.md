@@ -36,8 +36,6 @@ Quer saber mais sobre mim? <a href="https://nicolasgaldino.github.io/Code-Page/h
   ### 📈 GitHub Activity Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&theme=redical&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
 
-<img src="https://img.shields.io/github/followers/nicolasgaldino?style=social" height="25px">
-
 </div>
   
 ##

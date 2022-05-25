@@ -29,14 +29,6 @@ Quer saber mais sobre mim? <a href="https://nicolasgaldino.github.io/Code-Page/h
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 </div>
-
-##
-<div align="center">
-
-  ### 📈 GitHub Activity Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&theme=redical&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
-
-</div>
   
 ##
 

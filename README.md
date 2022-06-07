@@ -9,7 +9,7 @@
 ```diff
 + Como posso te ajudar hoje?
 Estagiário de desenvolvimento front-end no MPRJ
-- Levev up 23... Almost reaching 24
+- Levev up 24... Almost reaching 25
 # 📖 Currently studying JavaScript and Node.js
 ```
 

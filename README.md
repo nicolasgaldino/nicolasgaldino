@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since August 2021<br>📚 I'm currently learning JavaScript, TypeScript, React and Node.js<br>🎯 How can I help you today?<br>🎲 Check out the 'About Me' section in my personal project: <a href="https://nicolasgaldino.github.io/Code-Page/html/sobre.html" target="_blank" rel="external">Click here</a>!</p>
+<p align="left">✨ Creating bugs since August 2021<br>📚 I'm currently learning JavaScript, TypeScript, React and Node.js<br>🎯 How can I help you today?<br>🎲 Check out the 'About Me' section in my personal project: <a href="https://nicolasgaldino.github.io/Code-Page/html/sobre.html" target="_blank">Click here</a>!</p>
 
 ###
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nícolas-galdino-esmael-8370ab199" target="_blank" rel="external">
+  <a href="https://www.linkedin.com/in/nícolas-galdino-esmael-8370ab199" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/galdino_esmael" target="_blank">

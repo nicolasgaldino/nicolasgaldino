@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since August 2021<br>📚 I'm currently learning JavaScript, TypeScript, React and Node.js<br>🎯 How can I help you today?<br>🎲 Check out the 'About Me' section in my personal project: <a href="https://nicolasgaldino.github.io/Code-Page/html/sobre.html" target="_blank">Click here</a>!</p>
+<p align="left">✨ Creating bugs since August 2021<br>📚 I'm currently learning JavaScript, TypeScript, React and Node.js<br>🎯 Goals: Always learning new technologies<br>🎲 Check out the 'About Me' section in my personal project: <a href="https://nicolasgaldino.github.io/Code-Page/html/sobre.html" target="_blank">Click here</a>!</p></p>
 
 ###
 
@@ -32,8 +32,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=nicolasgaldino" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=nicolasgaldino" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&username=nicolasgaldino" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&username=nicolasgaldino" height="150" alt="languages graph"  />
 </div>
 
 ###

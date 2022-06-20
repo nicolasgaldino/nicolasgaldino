@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since August 2021<br>📚 I'm currently learning JavaScript, TypeScript, React and Node.js<br>🎯 How can I help you today?<br>🎲 Check out the 'About Me' section in my personal project: <a href="https://nicolasgaldino.github.io/Code-Page/html/sobre.html" target="_blank">Click here</a>!</p>
+<p align="left">✨ Creating bugs since August 2021<br>📚 I'm currently learning JavaScript, TypeScript, React and Node.js<br>🎯 How can I help you today?<br>🎲 Check out the 'About Me' section in my personal project: <a href="https://nicolasgaldino.github.io/Code-Page/html/sobre.html" target="_blank" rel="external">Click here</a>!</p>
 
 ###
 

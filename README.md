@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since August 2021<br>📚 I'm currently learning JavaScript, TypeScript, React and Node.js<br>🎯 How can I help you today?<br>🎲 Check out the 'About Me' section in my personal project: <a href="https://nicolasgaldino.github.io/Code-Page/html/sobre.html" target="_blank">Click here</a>!</p></p>
+<p align="left">✨ Creating bugs since August 2021<br>📚 I'm currently learning JavaScript and React<br>🎯 How can I help you today?<br>🎲 Check out the 'About Me' section in my personal project: <a href="https://nicolasgaldino.github.io/Code-Page/html/sobre.html" target="_blank">Click here</a>!</p></p>
 
 ###
 
@@ -24,9 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="45" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="45" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="45" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="45" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="45" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
 ###

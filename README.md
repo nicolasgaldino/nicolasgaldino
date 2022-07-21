@@ -26,19 +26,12 @@
 
 ## My Github Stats:
 
-<table>
-  <tr>
-    <td>
-       <a href="https://github.com/nicolasgaldino"><img alt="Nícolas Galdino's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolasgaldino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-       <a href="http://www.github.com/nicolasgaldino"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasgaldino&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/nicolasgaldino"><img alt="Nícolas Galdino's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgaldino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&username=nicolasgaldino" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=monokai&hide_border=true&username=nicolasgaldino" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## Languages, Frameworks and Tools i use:
   <table>
@@ -67,7 +60,7 @@
     </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&theme=monokai&hide_border=true)
 
 <p align="left">📫 How to Reach me:</p>
 

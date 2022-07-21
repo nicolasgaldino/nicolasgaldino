@@ -15,7 +15,6 @@
         📚 I'm 24 years old and in my 2th year studying analysis and systems development.<br/>
         🚀 My hobbies include weight training (despite being a bit chubby), playing video games and coding (as a Developer and all). Watching movies and listening to music.<br/>
         🙂 I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
-        💞️ Follow my github to stay updated on my amazing projects.<br/>
       </p>
     </td>
     <td>
@@ -27,8 +26,8 @@
 ## My Github Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&username=nicolasgaldino" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=monokai&hide_border=true&username=nicolasgaldino" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&username=nicolasgaldino" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=monokai&hide_border=true&username=nicolasgaldino" height="140" alt="languages graph"  />
 </div>
 
 ###

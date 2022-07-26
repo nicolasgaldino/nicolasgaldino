@@ -59,8 +59,6 @@
     </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicolasgaldino&theme=monokai&hide_border=true)
-
 <p align="left">📫 How to Reach me:</p>
 
 <div align="left">

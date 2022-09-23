@@ -45,6 +45,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="45" alt="javascript logo"  />
       </td>
       <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="45" alt="nodejs logo"  />
+      </td>
+      <td>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="45" alt="react logo"  />
       </td>
       <td>

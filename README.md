@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nícolas and I'm a Front-end Developer from Brazil, Rio de Janeiro</p>
+<p align="left">My name is Nícolas and I'm a Back-end Developer from Brazil, Rio de Janeiro</p>
 
 ###
 
@@ -36,6 +36,15 @@
   <table>
     <tr>
       <td>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="45" alt="python logo"  />
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" width="45" alt="django logo"  />
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" width="45" alt="bootstrap logo"  />
+      </td>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="45" alt="javascript logo"  />
       </td>
       <td>
@@ -49,9 +58,6 @@
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="45" alt="css3 logo"  />
-      </td>
-      <td>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="45" alt="python logo"  />
       </td>
       <td>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="45" alt="git logo"  />

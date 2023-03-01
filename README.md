@@ -36,13 +36,7 @@
   <table>
     <tr>
       <td>
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="45" alt="python logo"  />
-      </td>
-      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" width="45" alt="django logo"  />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" width="45" alt="bootstrap logo"  />
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="45" alt="javascript logo"  />

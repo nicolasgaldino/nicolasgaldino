@@ -1,29 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Olá, sou Nícolas Galdino! 👋
 
-###
+Sou um entusiasta de desenvolvimento de software com foco em back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e atuo como estagiário back-end no Ministério Público do Rio de Janeiro.
 
-<p align="left">My name is Nícolas and I'm a Back-end Developer from Brazil, Rio de Janeiro</p>
+## 🚀 Sobre Mim
 
-###
+- 💻 Minha stack principal gira em torno do ecossistema Django, incluindo o framework Django e o desenvolvimento de APIs com Django REST.
+- ⚙️ Antes de me dedicar ao back-end, tive a oportunidade de trabalhar com React JS na equipe front-end. Essa experiência me permitiu adquirir compreensão de todo o ciclo de desenvolvimento web.
+- 👯 Além dos meus conhecimentos em Django e Django REST, possuo conhecimento em SQL, Node.js, e Git.
 
-<table>
-  <tr>
-    <td valign="center">
-      <p>
-        🎯 How can I help you today?<br>
-        ✨ Creating bugs since July 2021.<br/>
-        📚 I'm 24 years old and in my 2th year studying analysis and systems development.<br/>
-        🚀 My hobbies include weight training (despite being a bit chubby), playing video games and coding (as a Developer and all). Watching movies and listening to music.<br/>
-        🙂 I have the following skills: Communication Skills, Patience, and problem solving(Every Developer says this), as well as a great sense of humor, time management skills, and most importantly the ability to focus (still working on this one).<br/>
-      </p>
-    </td>
-    <td>
-      <a href="https://app.daily.dev/nicolasGaldino"><img src="https://api.daily.dev/devcards/1d2ff5bb6d504d2bbf6cdacfaea3c4ce.png?r=4zu" width="400" alt="Nícolas Galdino's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
+##
 
-## My Github Stats:
+## Minhas estatísticas do Github:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&username=nicolasgaldino" height="130" alt="stats graph"  />
@@ -32,7 +19,8 @@
 
 ###
 
-## Languages, Frameworks and Tools i use:
+## ⚡ Habilidades
+
   <table>
     <tr>
       <td>
@@ -61,6 +49,8 @@
       </td>
     </tr>
   </table>
+
+##
 
 <p align="left">📫 How to Reach me:</p>
 

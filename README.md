@@ -4,7 +4,7 @@ Sou um entusiasta de desenvolvimento de software com foco em back-end. Atualment
 
 ## 🚀 Sobre Mim
 
-- 💻 Minha stack principal gira em torno do ecossistema Django, incluindo o framework Django e o desenvolvimento de APIs com Django REST.
+- 💻 Minha stack principal gira em torno do ecossistema Python, incluindo o framework Django e o desenvolvimento de APIs com Django REST.
 - ⚙️ Antes de me dedicar ao back-end, tive a oportunidade de trabalhar com React JS na equipe front-end. Essa experiência me permitiu adquirir compreensão de todo o ciclo de desenvolvimento web.
 - 👯 Além dos meus conhecimentos em Django e Django REST, possuo conhecimento em SQL, Node.js, e Git.
 

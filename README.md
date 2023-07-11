@@ -61,7 +61,7 @@ Sou um entusiasta de desenvolvimento de software com foco em back-end. Atualment
 ## 🤝 Conecte-se comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nícolas-galdino-esmael-8370ab199" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-galdino-esmael/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="mailto:nicolasesmael1998@gmail.com" target="_blank">

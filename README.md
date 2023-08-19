@@ -1,6 +1,6 @@
 # Olá, sou Nícolas Galdino! 👋
 
-Sou um entusiasta de desenvolvimento de software com foco em back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e atuo como estagiário back-end no Ministério Público do Rio de Janeiro.
+Sou um entusiasta de desenvolvimento de software com foco em back-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor back-end no Ministério Público do Rio de Janeiro.
 
 ## 🚀 Sobre Mim
 

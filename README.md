@@ -39,8 +39,5 @@
   <a href="mailto:nicolasesmael1998@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a><br>
-  <a href="https://api.whatsapp.com/send?phone=5521974903005" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
-  </a>
 </p>
 
